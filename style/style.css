@@ -14,10 +14,10 @@ ul,ol{
 }
 
 
-.container-fluid{
+/* .container-fluid{
   width: 100%;
   box-sizing: border-box;
-}
+} */
 
 .container{
   width: 960px;
@@ -27,9 +27,8 @@ ul,ol{
 }
 
 .footer-nav{
-  width: 100%;
   box-sizing: border-box;
-} */
+} 
 
  .elements-nav{
   width: 960px;
