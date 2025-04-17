@@ -1,0 +1,22 @@
+.box{
+    background-color: #c7c10d;
+    height: 130px;
+    align-content: center;
+}
+
+.box .elements-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box .element{
+    margin: 0 80px;
+    text-align: center;
+}
+
+.element p{
+    padding-top: 15px;
+    color: white;
+    white-space: nowrap;
+}
