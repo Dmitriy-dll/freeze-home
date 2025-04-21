@@ -15,8 +15,13 @@ footer p{
     color: white;
     text-align: center;
     padding-top: 35px;
+    font-family: Roboto;
 }
 
 .footer-el img{
     margin: 0 15px;
+}
+
+.footer-el a{
+    text-decoration: none;
 }

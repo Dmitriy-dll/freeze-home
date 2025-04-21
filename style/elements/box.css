@@ -19,4 +19,8 @@
     padding-top: 15px;
     color: white;
     white-space: nowrap;
+    font-family: lator;
+}
+.elements-nav a{
+    text-decoration: none;
 }

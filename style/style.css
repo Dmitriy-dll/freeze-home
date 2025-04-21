@@ -4,6 +4,7 @@
 @import url(./elements/featured.css);
 @import url(elements/box.css);
 @import url(elements/footer.css);
+@import url(elements/name-page.css);
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
   margin: 0;
@@ -14,10 +15,10 @@ ul,ol{
 }
 
 
-/* .container-fluid{
+.container-fluid{
   width: 100%;
   box-sizing: border-box;
-} */
+}
 
 .container{
   width: 960px;
