@@ -2,7 +2,8 @@ footer{
     background-color: #cc3563;
     height: 200px;
     align-content: center;
-    margin: 0 auto
+    margin: 0 auto;
+    margin-bottom: 150px;
 }
 
 footer .footer-el{

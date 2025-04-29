@@ -1,0 +1,83 @@
+.blog-main{
+  display: flex;
+  justify-content: center;
+  margin: 120px 0 180px 0;
+}
+
+.blog-main .img{
+  float: left;
+  width: 270px;
+  height: 270px;
+}
+
+.blog-main h4{
+  font-size: 26px;
+  color: #cb3362;
+  font-weight: 400;
+  font-family: latoR;
+  display: inline;
+}
+
+.blog-main .title-info{
+  font-size: 13px;
+  color: #7a6666;
+  font-weight: 400;
+  font-family: "Roboto";
+  margin-bottom: 25px;
+  margin-top: 5px;
+}
+
+.blog-main .item-info{
+  font-size: 16px;
+  color: #7a6666;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+
+.blog-main .left-bar{
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  height: 700px;
+}
+
+.blog-main .right-bar{
+  display: flex;
+  flex-direction: column; 
+  background-color: #efeced;
+  width: 350px;
+  height: 680px;
+  justify-content: center;
+  align-items: center;
+}
+
+.rm-button {
+  border: #a5838e 2px solid;
+  font-size: 16px;
+  color: #a5838e;
+  font-weight: 600;
+  font-family: "latoB";
+  height: 40px;
+  width: 150px;
+  background-color: rgba(1, 1, 1, 0);
+  cursor: pointer;
+  margin-top: 40px;
+  transition: 0.4s all;
+}
+
+.rm-button:hover{
+  color: #ffff;
+  background-color: #fff;
+  background-color: #a5838e;
+}
+
+.blog-main .section2{
+  margin-top: 30px;
+}
+
+.blog-main{
+  font-size: 34px;
+  color: #cb3362;
+  font-weight: 600;
+  font-family: "Magra";
+}

@@ -1,0 +1,84 @@
+.single-post-main{
+    display: flex;
+    justify-content: center;
+    margin: 120px 0 180px 0;
+  }
+  
+  .single-post-main .img{
+    float: left;
+    width: 270px;
+    height: 270px;
+  }
+  
+.section{
+    margin-right: 40px;
+}
+
+  .single-post-main h4{
+    font-size: 26px;
+    color: #cb3362;
+    font-weight: 400;
+    font-family: latoR;
+    margin-top: 30px;
+  }
+  
+  .single-post-main .title-info{
+    font-size: 13px;
+    color: #7a6666;
+    font-weight: 400;
+    font-family: "Roboto";
+    margin-bottom: 25px;
+    margin-top: 5px;
+  }
+  
+  .single-post-main .item-info{
+    font-size: 16px;
+    color: #7a6666;
+    font-weight: 400;
+    font-family: "Roboto";
+  }
+  
+  .single-post-main .left-bar{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 700px;
+  }
+  
+  .single-post-main .right-bar{
+    display: flex;
+    flex-direction: column; 
+    background-color: #efeced;
+    width: 350px;
+    height: 680px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .rm-button {
+    border: #a5838e 2px solid;
+    font-size: 16px;
+    color: #a5838e;
+    font-weight: 600;
+    font-family: "latoB";
+    height: 40px;
+    width: 150px;
+    background-color: rgba(1, 1, 1, 0);
+    cursor: pointer;
+    margin-top: 40px;
+    transition: 0.4s all;
+  }
+  
+  .rm-button:hover{
+    color: #ffff;
+    background-color: #fff;
+    background-color: #a5838e;
+  }
+  
+  
+  .single-post-main{
+    font-size: 34px;
+    color: #cb3362;
+    font-weight: 600;
+    font-family: "Magra";
+  }

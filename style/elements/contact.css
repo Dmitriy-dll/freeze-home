@@ -1,0 +1,21 @@
+.frame {
+    border: 4px dashed #7a6666;
+    padding: 40px;
+    background-color: white;
+    color: #e32a62;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(122, 102, 102, 0.3);
+    background-color: #efeced;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+.frame h5 {
+    margin: 0;
+    font-size: 24px;
+  }

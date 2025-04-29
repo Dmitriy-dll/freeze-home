@@ -5,6 +5,11 @@
 @import url(elements/box.css);
 @import url(elements/footer.css);
 @import url(elements/name-page.css);
+@import url(elements/about-main.css);
+@import url(elements/product-main.css);
+@import url(elements/blog-main.css);
+@import url(elements/single-post-main.css);
+@import url(elements/contact.css);
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
   margin: 0;
@@ -34,6 +39,10 @@ ul,ol{
  .elements-nav{
   width: 960px;
   margin: 0 auto;
+}
+
+.about-main{
+  box-sizing: border-box;
 }
 
 

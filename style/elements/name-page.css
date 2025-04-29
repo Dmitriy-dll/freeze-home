@@ -2,9 +2,11 @@
     background-color: #c7c10d;
     height: 110px;
     font-size: 30px;
+    width: 100%;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: latoR;
 }
 
